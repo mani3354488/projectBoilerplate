@@ -22,3 +22,7 @@ Technoligies used:
 MERN stack
 REST, GRAPHQL
 
+Commands :
+
+npm run lint (find the issues in the code)
+npm run lint:fix (fix all the issues by formatting the code)
